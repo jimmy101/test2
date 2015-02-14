@@ -28,6 +28,7 @@ public class time {
 	       for(int i =0; i<20;i++){
 	       int randomnumber = rand.nextInt(900000000) + 100000;
 	       System.out.println(randomnumber);
+	       System.out.println("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
 	       }
 	}
 
